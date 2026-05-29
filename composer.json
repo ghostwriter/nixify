@@ -47,14 +47,14 @@
         "ghostwriter/shell": "^0.1.5",
         "ghostwriter/uuid": "^1.0.3",
         "nikic/php-parser": "^5.7.0",
-        "symfony/process": "^8.0.13"
+        "symfony/process": "^8.1.0"
     },
     "require-dev": {
         "ext-xdebug": "*",
         "ghostwriter/coding-standard": "dev-main",
         "mockery/mockery": "^1.6.12",
         "phpunit/phpunit": "^13.1.13",
-        "symfony/var-dumper": "^8.0.8"
+        "symfony/var-dumper": "^8.1.0"
     },
     "prefer-stable": true,
     "autoload": {
