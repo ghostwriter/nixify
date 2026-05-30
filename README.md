@@ -1,9 +1,10 @@
 # Nixify
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@nix-php/nixify&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
 [![Automation](https://github.com/nix-php/nixify/actions/workflows/automation.yml/badge.svg)](https://github.com/nix-php/nixify/actions/workflows/automation.yml)
-[![Supported PHP Version](https://badgen.net/packagist/php/nix-php/nixify?color=8892bf)](https://www.php.net/supported-versions)
-[![Downloads](https://badgen.net/packagist/dt/nix-php/nixify?color=blue)](https://packagist.org/packages/nix-php/nixify)
+[![PHP Version](https://badgen.net/packagist/php/nix-php/nixify?color=777BB4)](https://www.php.net/supported-versions)
+[![Packagist Downloads](https://badgen.net/packagist/dt/nix-php/nixify?color=F28D1A)](https://packagist.org/packages/nix-php/nixify)
+[![PayPal](https://img.shields.io/badge/paypal-@codepoet-0079C1?logo=paypal&logoColor=002991)](https://paypal.me/codepoet)
+[![Sponsors via GitHub](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@nix-php/nixify&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
 
 Nix tool for PHP projects.
 
